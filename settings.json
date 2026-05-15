@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "gold.magmanode.com",
-    "port": 32016,
+    "ip": "arcx.falix.pro",
+    "port": 25565,
     "version": "1.20.1",
     "try-creative": false
   },
